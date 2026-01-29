@@ -11,10 +11,16 @@ All of my voice and organ arrangements are found [here in Google Drive](https://
 
 ---
 Voice library used for vocal solo: *MEDIUM5Minus*  
-Organ stops used: *Flöte 8' + 4' for single manual; Gross Untersatz 32' + 16' and Flöte 8' for pedal keyboard*
+Organ stops used: *Flöte 8' + 4' for single manual; Gross Untersatz 32' + 16' and Flöte 8' for pedalboard*
 
 ---
 ### 🇵🇭 Songs from the Philippines
 
 **1\. Anima Christi (Arboleda)**  
    [Audio](./demos/so_01_anima_christi_arboleda/voice_and_organ.m4a) | [MIDI note data](./demos/so_01_anima_christi_arboleda/arr_voice_and_organ.mid) | [SVP sequence in ZIP](./demos/so_01_anima_christi_arboleda/arr_voice.zip) | [Notes](./demos/so_01_anima_christi_arboleda/notes.txt)
+
+**2\. Papuri sa Diyos (Hontiveros, Cebuano Version)**  
+   [Audio](./demos/so_02_papuri_sa_diyos_hontiveros_cebuano_version/voice_and_organ.m4a) | [MIDI note data](./demos/so_02_papuri_sa_diyos_hontiveros_cebuano_version/arr_voice_and_organ.mid) | [SVP sequence in ZIP](./demos/so_02_papuri_sa_diyos_hontiveros_cebuano_version/arr_voice.zip) | [Notes](./demos/so_02_papuri_sa_diyos_hontiveros_cebuano_version/notes.txt)
+
+**3\. Prayer of St. Francis (Traditional Tune)**  
+   [Audio](./demos/so_03_prayer_of_st_francis_traditional_tune/voice_and_organ.m4a) | [MIDI note data](./demos/so_03_prayer_of_st_francis_traditional_tune/arr_voice_and_organ.mid) | [SVP sequence in ZIP](./demos/so_03_prayer_of_st_francis_traditional_tune/arr_voice.zip) | [Notes](./demos/so_03_prayer_of_st_francis_traditional_tune/notes.txt)

@@ -31,3 +31,6 @@ Organ stops used: *Flöte 8' + 4' for single manual; Gross Untersatz 32' + 16' a
 
 **1\. Love Is the Answer (Hannisian)**  
    [Audio](./demos/mi_01_love_is_the_answer_hannisian/voice_and_organ.m4a) | [MIDI note data](./demos/mi_01_love_is_the_answer_hannisian/arr_voice_and_organ.mid) | [SVP sequence in ZIP](./demos/mi_01_love_is_the_answer_hannisian/arr_voice.zip) | [Notes](./demos/mi_01_love_is_the_answer_hannisian/notes.txt)
+
+**2\. Voi Che Sapete**  
+   [Audio](./demos/mi_02_voi_che_sapete/voice_and_organ.m4a) | [MIDI note data](./demos/mi_02_voi_che_sapete/arr_voice_and_organ.mid) | [SVP sequence in ZIP](./demos/mi_02_voi_che_sapete/arr_voice.zip) | [Notes](./demos/mi_02_voi_che_sapete/notes.txt)

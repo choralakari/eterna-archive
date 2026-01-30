@@ -24,3 +24,10 @@ Organ stops used: *Flöte 8' + 4' for single manual; Gross Untersatz 32' + 16' a
 
 **3\. Prayer of St. Francis (Traditional Tune)**  
    [Audio](./demos/so_03_prayer_of_st_francis_traditional_tune/voice_and_organ.m4a) | [MIDI note data](./demos/so_03_prayer_of_st_francis_traditional_tune/arr_voice_and_organ.mid) | [SVP sequence in ZIP](./demos/so_03_prayer_of_st_francis_traditional_tune/arr_voice.zip) | [Notes](./demos/so_03_prayer_of_st_francis_traditional_tune/notes.txt)
+
+---
+
+### 🌐 Miscellaneous Tunes & Secular Songs
+
+**1\. Love Is the Answer (Hannisian)**  
+   [Audio](./demos/mi_01_love_is_the_answer_hannisian/voice_and_organ.m4a) | [MIDI note data](./demos/mi_01_love_is_the_answer_hannisian/arr_voice_and_organ.mid) | [SVP sequence in ZIP](./demos/mi_01_love_is_the_answer_hannisian/arr_voice.zip) | [Notes](./demos/mi_01_love_is_the_answer_hannisian/notes.txt)
